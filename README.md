@@ -1,7 +1,4 @@
-<html>
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/GiZano/GiZano/blob/main/Readme.png" alt=”my banner”>
-
-</p>
-</html>
+<head>
+  <title>Title</title>
+  <meta property="og:image" content="https://github.com/GiZano/GiZano/blob/main/Readme.png" />
+</head>
