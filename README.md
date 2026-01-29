@@ -38,7 +38,7 @@
 
 ### Add me on LinkedIn!
 
-<a href="[LINKEDIN_LINK](https://www.linkedin.com/in/giovanni-zanotti-it/)">
+<a href="https://www.linkedin.com/in/giovanni-zanotti-it/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
