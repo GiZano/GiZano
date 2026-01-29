@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="475" height="474" alt="image 1" src="https://github.com/user-attachments/assets/221666e7-b2fd-4c75-ac93-6ee4ea1f88b8" />
+  <img width="250" height="474" alt="image 1" src="https://github.com/user-attachments/assets/221666e7-b2fd-4c75-ac93-6ee4ea1f88b8" />
   
   <h1>Hi, I'm Giovanni (GiZano) 👋</h1>
   <h3>Junior Software Developer & IT Student</h3>
