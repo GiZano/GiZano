@@ -36,11 +36,18 @@
 
 ---
 
-### Add me on LinkedIn!
+### 🔗 Connect with me
 
+<a href="https://giovanni-zanotti.is-a.dev/index.html">
+  <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/giovanni-zanotti-it/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.credly.com/users/giovanni-zanotti">
+  <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
 
 ---
 
