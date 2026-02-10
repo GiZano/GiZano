@@ -7,11 +7,13 @@
   
   <p>
     passionate about <b>IoT</b>, <b>Networking</b>, and <b>Backend Development</b>.
-    <br>Currently expanding my skills in <b>Data Science (Python)</b> and <b>Cloud Computing (AWS)</b>.
+    <br>Currently expanding my skills in <b>Data Science (Python)</b> and <b>AI Engineering (Python & API)</b>.
   </p>
 </div>
 
 ---
+
+<div align="center">
 
 ### 🛠 Tech Stack
 
@@ -34,20 +36,38 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-%23316192.svg?style=for-the-badge&logo=scrum&logoColor=white)
+  
+</div>
+
+
 
 ---
 
-### 🔗 Connect with me
+<div align="center">
 
-<a href="https://giovanni-zanotti.is-a.dev/index.html" target="_blank">
-  <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/giovanni-zanotti-it/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.credly.com/users/giovanni-zanotti" target="_blank">
-  <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
-</a>
+  ### 🔗 Connect with me
+
+  <a href="https://giovanni-zanotti.is-a.dev/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/giovanni-zanotti-it">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.credly.com/users/giovanni-zanotti" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+
+  <a href="https://www.kaggle.com/gizano">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+
+  <a href="https://datacamp.com/portfolio/GiZano">
+    <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp" />
+  </a>
+
+</div>
 
 
 ---
