@@ -39,8 +39,6 @@
   
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -59,6 +57,10 @@
     <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 
+  <a href="https://leetcode.com/u/GiZano/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+
   <a href="https://www.kaggle.com/gizano">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
@@ -68,7 +70,6 @@
   </a>
 
 </div>
-
 
 ---
 
