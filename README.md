@@ -73,6 +73,20 @@
     <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp" />
   </a>
 
+---
+
+<table width="25%">
+  <tr>
+    <td>
+      <h3 align="center">🔭 Currently Studying & Training</h3>
+      <p align="center">I am a strong believer in continuous learning. Here is what I am actively focusing on right now:</p>
+      • 🛡️ <b><a href="https://github.com/GiZano/cybersec-essentials">CyberSec Essentials</a>:</b> My personal toolbox and scripts for CTF challenges. Currently training for the OliCyber Territorial Selections.<br><br>
+      • 🧠 <b><a href="https://github.com/GiZano/leetcode-journey">LeetCode Journey</a>:</b> Deepening my knowledge of Data Structures & Algorithms. Currently following the LeetCode 75 path.
+    </td>
+  </tr>
+</table>
+
+
 </div>
 
 ---
