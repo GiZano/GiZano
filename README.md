@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
 
-  <a href="https://medium.com/@giozanotti07" target="_blank">
+  <a href="https://medium.com/@gizano" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 
