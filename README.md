@@ -69,10 +69,6 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 
-  <a href="https://datacamp.com/portfolio/GiZano">
-    <img src="https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp" />
-  </a>
-
 ---
 
 <table width="25%">
