@@ -2,86 +2,73 @@
   
   <img width="250" alt="GiZano Logo" src="https://github.com/user-attachments/assets/221666e7-b2fd-4c75-ac93-6ee4ea1f88b8" />
   
-  <h1>Hi, I'm Giovanni (GiZano) 👋</h1>
-  <h3>Junior Software Developer & IT Student</h3>
+  <h1>Hi, I'm Giovanni Zanotti (GiZano) 👋</h1>
+  <h3>BSc Computer Science Student @ University of Pisa (UniPi)</h3>
   
   <p>
-    passionate about <b>IoT</b>, <b>Networking</b>, and <b>Backend Development</b>.
-    <br>Currently expanding my skills in <b>Data Science (Python)</b> and <b>AI Engineering (Python & API)</b>.
+    <b>Edge Computing | Systems Architecture | Mathematical Foundations</b><br>
+    Currently building scalable IoT infrastructures and studying C/C++ & Linux Internals.
   </p>
+
 </div>
 
 ---
 
+### 🚀 Proof of Work (Featured Projects)
+- 🌍 **[QuakeGuard v1.0.0](inserisci_qui_il_link_alla_repo):** Open-source distributed IoT architecture for real-time seismic monitoring at the edge. Built with C++ (ESP32-C3), Python (FastAPI), and PostgreSQL.
+- 🧮 **[SymPy Contribution](inserisci_qui_il_link_alla_PR):** Authored and successfully merged a Pull Request in the core repository of the NumFOCUS project for static type hinting.
+
+---
+
+### 🛠 Core Stack & Infrastructure
+
 <div align="center">
-
-### 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Scrum](https://img.shields.io/badge/scrum-%23316192.svg?style=for-the-badge&logo=scrum&logoColor=white)
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  <br>
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  <br>
+  ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
   
 </div>
 
 ---
 
+### 🔭 Current Execution
+- ⚙️ **Systems:** Mastering POSIX environments, shell scripting, and infrastructure automation (MIT Missing Semester).
+- 🧠 **Algorithms:** Deepening Data Structures & Algorithms with a focus on strict asymptotic complexity optimization.
+
+---
+
 <div align="center">
-
-  ### 🔗 Connect with me
-
-  <a href="https://giovanni-zanotti.is-a.dev/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
+  
+  <b>🔗 Connect with me</b><br><br>
   
   <a href="https://www.linkedin.com/in/giovanni-zanotti-it">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.credly.com/users/giovanni-zanotti" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
+  <a href="https://giovanni-zanotti.is-a.dev/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/GiZano/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-
   <a href="https://medium.com/@gizano" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-
   <a href="https://www.kaggle.com/gizano">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
-
----
-
-<table width="25%">
-  <tr>
-    <td>
-      <h3 align="center">🔭 Studying & Training</h3>
-      <p align="center">I am a strong believer in continuous learning. Here is what I am actively focusing on right now:</p>
-      • 🛡️ <b><a href="https://github.com/GiZano/cybersec-essentials">CyberSec Essentials</a>:</b> My personal toolbox and scripts for CTF challenges. Created while training for OliCyber Territorial Selections.<br><br>
-      • 🧠 <b><a href="https://github.com/GiZano/leetcode-journey">LeetCode Journey</a>:</b> Deepening my knowledge of Data Structures & Algorithms. Currently following the LeetCode 75 path.
-    </td>
-  </tr>
-</table>
-
+  <a href="https://www.credly.com/users/giovanni-zanotti" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
 
 </div>
 
