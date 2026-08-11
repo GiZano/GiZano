@@ -15,8 +15,8 @@
 ---
 
 ### 🚀 Proof of Work (Featured Projects)
-- 🌍 **[QuakeGuard v1.0.0](inserisci_qui_il_link_alla_repo):** Open-source distributed IoT architecture for real-time seismic monitoring at the edge. Built with C++ (ESP32-C3), Python (FastAPI), and PostgreSQL.
-- 🧮 **[SymPy Contribution](inserisci_qui_il_link_alla_PR):** Authored and successfully merged a Pull Request in the core repository of the NumFOCUS project for static type hinting.
+- 🌍 **[QuakeGuard v1.2.0](https://github.com/GiZano/QuakeGuard):** Open-source distributed IoT architecture for real-time seismic monitoring at the edge. Built with C++ (ESP32-C3), Python (FastAPI), and PostgreSQL.
+- 🧮 **[SymPy Contribution](https://github.com/sympy/sympy/pull/29515):** Authored and successfully merged a Pull Request in the core repository of the NumFOCUS project for static type hinting.
 
 ---
 
