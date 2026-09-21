@@ -45,32 +45,41 @@
 - ⚙️ **Systems:** Mastering POSIX environments, shell scripting, and infrastructure automation (MIT Missing Semester).
 - 🧠 **Algorithms:** Deepening Data Structures & Algorithms with a focus on strict asymptotic complexity optimization.
 
+<br>
+
 ---
 
+<br>
 <div align="center">
   
-  <b>🔗 Connect with me</b><br><br>
+  <b>🔗 Connect with me</b><br>
   
   <a href="https://www.linkedin.com/in/giovanni-zanotti-it">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://giovanni-zanotti.is-a.dev/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://giovanni-zanotti.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
   </a>
-  <a href="https://leetcode.com/u/GiZano/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  <a href="https://orcid.org/0009-0000-8900-9586" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  <a href="https://medium.com/@gizano" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+
+
+</div>
+<br>
+<div align="center">
+  
+  <b>✍️ Tech Blog & Articles</b><br>
+  
+  <a href="https://gizano.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
-  <a href="https://www.kaggle.com/gizano">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.credly.com/users/giovanni-zanotti" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-%23FF6B6B.svg?style=for-the-badge&logo=credly&logoColor=white" />
+  <a href="https://dev.to/gizano" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
   </a>
 
 </div>
+<br>
 
 ---
 
