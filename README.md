@@ -63,7 +63,12 @@
   <a href="https://orcid.org/0009-0000-8900-9586" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-
+  <a href="https://hachyderm.io/@gizano" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
+  <a href="https://bsky.app/profile/giovanni-zanotti.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
 
 </div>
 <br>
