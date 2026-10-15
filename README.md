@@ -42,9 +42,11 @@
 
 ---
 
-### 🔭 Current Execution
+### 🔭 Current Execution & Learning in Public
+Building products is my passion, but mastering the fundamentals is my daily habit.
+
 - ⚙️ **Systems:** Mastering POSIX environments, shell scripting, and infrastructure automation (MIT Missing Semester).
-- 🧠 **Algorithms:** Deepening Data Structures & Algorithms with a focus on strict asymptotic complexity optimization.
+- 🧠 **Algorithms & Modern C++:** I dedicate time every day to deepen my knowledge of Data Structures and strict asymptotic complexity optimization. You can track my daily progress and C++17/20 implementations in my **[LeetCode Journey](https://github.com/GiZano/leetcode-journey)** repository.
 
 <br>
 
