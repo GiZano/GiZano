@@ -16,7 +16,7 @@
 
 ### 🚀 Proof of Work (Featured Projects)
 - 🌍 **[QuakeGuard v2.1.1](https://github.com/GiZano/QuakeGuard):** Open-source distributed IoT architecture for real-time seismic monitoring at the edge. Built with C++ (ESP32-C3), Python (FastAPI), and PostgreSQL.
-- 🏔️ **[ClimbStack v1.3.0](https://github.com/ClimbStack/climbstack-app):** Open-source mobile productivity app for long-term goal tracking and time-boxing, gamified through a mountain-climbing metaphor with an integrated weekly planner. Built with React Native (Expo), TypeScript, and SQLite.
+- 🏔️ **[ClimbStack v1.4.0](https://github.com/ClimbStack/climbstack-app):** Open-source mobile productivity app for long-term goal tracking and time-boxing, gamified through a mountain-climbing metaphor with an integrated weekly planner. Built with React Native (Expo), TypeScript, and SQLite.
 - 🧮 **[SymPy Contribution](https://github.com/sympy/sympy/pull/29515):** Authored and successfully merged a Pull Request in the core repository of the NumFOCUS project for static type hinting.
 
 ---
