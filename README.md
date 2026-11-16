@@ -21,6 +21,11 @@
 
 ---
 
+### 📦 Templates & Starter Kits
+- 🧩 **[leetcode-journey-template](https://github.com/GiZano/leetcode-journey-template)** [![Stars](https://img.shields.io/github/stars/GiZano/leetcode-journey-template?style=flat-square)](https://github.com/GiZano/leetcode-journey-template/stargazers) [![Forks](https://img.shields.io/github/forks/GiZano/leetcode-journey-template?style=flat-square)](https://github.com/GiZano/leetcode-journey-template/network/members): Structured GitHub repository template designed for developers to track, organize, and document daily algorithmic problem-solving and Data Structures implementations.
+
+---
+
 ### 🛠 Core Stack & Infrastructure
 
 <div align="center">
